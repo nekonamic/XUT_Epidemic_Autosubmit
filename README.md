@@ -14,7 +14,7 @@ ___
 5. 提交疫情通，此时Network中的`Name`列里会出现名为`save`的包（有且仅有这个包）
 6. 进入save，在`Header` >> `Request Headers`中可以找到Cookie
 ___
-### 如何让脚本在Linux服务器上每天运行一次
+### 如何让脚本在Ubuntu服务器上每天运行一次
 1. 复制Cookie到main.py里(复制的位置已用TODO标注出来)
 2. terminal中输入
 ```BASH
